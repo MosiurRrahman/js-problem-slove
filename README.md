@@ -33,3 +33,9 @@ To get started with this repository, follow these steps:
 
    ```bash
    git clone https://github.com/MosiurRrahman/js-problem-slove
+
+practice link
+JavaScript Array Problems: https://chat.openai.com/share/969cbbe8-d112-4e8b-9515-83f97c6f407c
+
+JavaScript Object Problems & Solutions: https://chat.openai.com/share/a95c59c8-043a-43eb-806a-6f77198bf58c
+JavaScript DSA Problems & Solutions: https://chat.openai.com/share/f2b556e8-900a-4344-b235-3c84c95a9a3f
